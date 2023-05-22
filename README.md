@@ -1,1 +1,2 @@
 # python-search
+Hari ini saya belajar sequential search dan binary search. Sequential search adalah metode pencarian linear dengan memeriksa setiap elemen satu per satu. Binary search adalah metode pencarian efisien untuk daftar terurut, dengan membagi daftar menjadi setengah bagian pada setiap langkahnya. Sequential search cocok untuk daftar tidak terurut, sedangkan binary search cocok untuk daftar terurut.
